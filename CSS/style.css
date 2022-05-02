@@ -1,0 +1,71 @@
+.gear {
+    max-height: 25px;
+}
+
+.icon {
+    max-height: 20px;
+}
+
+.header-logo {
+    max-height: 45px;
+}
+
+.bg-darkgrey {
+    background-color: rgb(237, 237, 237);
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+.likes {
+    font-weight: 620;
+}
+
+.username {
+    font-weight: 620;
+}
+
+.no-border {
+    border: 0;
+    box-shadow: none;
+}
+
+
+.nav-pills .nav-link.active {
+    background-color: gray;
+}
+
+.nav-link {
+    color: gray;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: gray;
+    background-color: lightgray;
+}
+
+.no-wrap {
+    flex-wrap: nowrap !important;
+}
+
+.square img {
+    aspect-ratio: 1/1;
+    object-fit: cover;
+}
+
+.square img:hover {
+    cursor: pointer;
+}
+
+.hashtag {
+    font-weight: 500;
+}
+
+.hashtag:hover {
+    cursor: pointer;
+}
+
+.card-img-top:hover {
+    cursor: pointer;
+}
